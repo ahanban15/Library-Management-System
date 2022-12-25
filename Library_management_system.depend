@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1662050502 source:d:\ahan's college documents\nit delhi b.tech\college programming\third semester dbms\library_management_system\code.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1662050687 source:d:\ahan's college documents\nit delhi b.tech\college programming\third semester dbms\library_management_system\libr.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1662062529 source:d:\ahan's college documents\nit delhi b.tech\college programming\third semester dbms\library_management_system\my1.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
